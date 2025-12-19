@@ -1,8 +1,0 @@
-tensorflow==2.15.0
-keras<3
-numpy<2
-pandas
-scikit-learn
-matplotlib
-joblib
-streamlit
